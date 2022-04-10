@@ -1,0 +1,20 @@
+{
+  "name": "is-demo-npm-package",
+  "version": "1.0.0",
+  "description": "is-demo-npm-package steps # is-demo-npm-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyaMohan1311/is-demo-npm-package.git"
+  },
+  "keywords": [],
+  "author": "Priya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriyaMohan1311/is-demo-npm-package/issues"
+  },
+  "homepage": "https://github.com/PriyaMohan1311/is-demo-npm-package#readme"
+}
